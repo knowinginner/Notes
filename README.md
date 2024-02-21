@@ -88,18 +88,31 @@ sudo systemctl enable --now docker
 distrobox enter
 
 sudo flatpak install flathub com.brave.Browser
+
 sudo flatpak install flathub net.mullvad.MullvadBrowser
+
 sudo flatpak install flathub org.standardnotes.standardnotes
+
 sudo flatpak install flathub com.visualstudio.code-oss
+
 sudo flatpak install flathub com.vscodium.codium
+
 sudo flatpak install flathub org.freefilesync.FreeFileSync
+
 sudo flatpak install flathub org.gimp.GIMP
+
 sudo flatpak install flathub org.libreoffice.LibreOffice
+
 sudo flatpak install flathub com.discordapp.Discord
+
 sudo flatpak install flathub nz.mega.MEGAsync
+
 sudo flatpak install flathub org.videolan.VLC
+
 sudo flatpak install flathub org.gnome.meld
+
 sudo flatpak install flathub com.github.Murmele.Gittyup
+
 sudo flatpak install flathub xyz.xclicker.xclicker
 
 icedrive
